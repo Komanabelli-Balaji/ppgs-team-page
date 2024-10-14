@@ -262,59 +262,59 @@ const coordis = [{
     },
 ];
 
-// document.querySelector("#prof").innerHTML = profData
-//     .map(
-//         (member) =>
-//         `
-//     <div class="team-member col-lg-4 col-md-5 col-8">
-//     <img src="${member.profile_pic}" alt="${member.firstname} ${member.lastname}">
-//     <h2>${member.firstname} ${member.lastname}</h2>
-//     <p id="postnew">${member.post}</p>
-//     <div class="team-socials">
-//         ` +
-//         "<p>" +
-//         (member.contact_email ?
-//             `<a href="mailto:${member.contact_email}" style="text-decoration:none"><i class="bi bi-envelope-fill"></i></a>` :
-//             ``) +
-//         (member.linkedin ?
-//             `<a href="${member.linkedin}" target="_blank" style="text-decoration:none"><i class = "bi bi-linkedin"></i></a>` :
-//             ``) +
-//         (member.twitter ?
-//             `<a href="${member.twitter}" target="_blank" style="text-decoration:none"><i class="bi bi-twitter-x"></i></a>` :
-//             ``) +
-//         (member.instagram ?
-//             `<a href="${member.instagram}" target="_blank" style="text-decoration:none"><i class="bi bi-instagram"></i></a>` :
-//             ``) +
-//         `</p></div></div></div>`
-//     )
-//     .join("");
+document.querySelector("#prof").innerHTML = profData
+    .map(
+        (member) =>
+        `
+    <div class="team-member col-lg-4 col-md-5 col-8">
+    <img src="${member.profile_pic}" alt="${member.firstname} ${member.lastname}">
+    <h2>${member.firstname} ${member.lastname}</h2>
+    <p id="postnew">${member.post}</p>
+    <div class="team-socials">
+        ` +
+        "<p>" +
+        (member.contact_email ?
+            `<a href="mailto:${member.contact_email}" style="text-decoration:none"><i class="bi bi-envelope-fill"></i></a>` :
+            ``) +
+        (member.linkedin ?
+            `<a href="${member.linkedin}" target="_blank" style="text-decoration:none"><i class = "bi bi-linkedin"></i></a>` :
+            ``) +
+        (member.twitter ?
+            `<a href="${member.twitter}" target="_blank" style="text-decoration:none"><i class="bi bi-twitter-x"></i></a>` :
+            ``) +
+        (member.instagram ?
+            `<a href="${member.instagram}" target="_blank" style="text-decoration:none"><i class="bi bi-instagram"></i></a>` :
+            ``) +
+        `</p></div></div></div>`
+    )
+    .join("");
 
-// document.querySelector("#leads").innerHTML = leads
-//     .map(
-//         (member) =>
-//         `
-//     <div class="team-member col-lg-3 col-md-4 col-5">
-//     <img src="${member.profile_pic}" alt="${member.firstname} ${member.lastname}">
-//     <h2>${member.firstname} ${member.lastname}</h2>
-//     <p id="postnew">${member.post}</p>
-//     <div class="team-socials">
-//         ` +
-//         "<p>" +
-//         (member.contact_email ?
-//             `<a href="mailto:${member.contact_email}" style="text-decoration:none"><i class="bi bi-envelope-fill"></i></a>` :
-//             ``) +
-//         (member.linkedin ?
-//             `<a href="${member.linkedin}" target="_blank" style="text-decoration:none"><i class = "bi bi-linkedin"></i></a>` :
-//             ``) +
-//         (member.twitter ?
-//             `<a href="${member.twitter}" target="_blank" style="text-decoration:none"><i class="bi bi-twitter-x"></i></a>` :
-//             ``) +
-//         (member.instagram ?
-//             `<a href="${member.instagram}" target="_blank" style="text-decoration:none"><i class="bi bi-instagram"></i></a>` :
-//             ``) +
-//         `</p></div></div></div>`
-//     )
-//     .join("");
+document.querySelector("#leads").innerHTML = leads
+    .map(
+        (member) =>
+        `
+    <div class="team-member col-lg-3 col-md-4 col-5">
+    <img src="${member.profile_pic}" alt="${member.firstname} ${member.lastname}">
+    <h2>${member.firstname} ${member.lastname}</h2>
+    <p id="postnew">${member.post}</p>
+    <div class="team-socials">
+        ` +
+        "<p>" +
+        (member.contact_email ?
+            `<a href="mailto:${member.contact_email}" style="text-decoration:none"><i class="bi bi-envelope-fill"></i></a>` :
+            ``) +
+        (member.linkedin ?
+            `<a href="${member.linkedin}" target="_blank" style="text-decoration:none"><i class = "bi bi-linkedin"></i></a>` :
+            ``) +
+        (member.twitter ?
+            `<a href="${member.twitter}" target="_blank" style="text-decoration:none"><i class="bi bi-twitter-x"></i></a>` :
+            ``) +
+        (member.instagram ?
+            `<a href="${member.instagram}" target="_blank" style="text-decoration:none"><i class="bi bi-instagram"></i></a>` :
+            ``) +
+        `</p></div></div></div>`
+    )
+    .join("");
 
 document.querySelector("#ctm").innerHTML = ctm
     .map(
