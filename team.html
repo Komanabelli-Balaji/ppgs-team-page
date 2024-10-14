@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Team Page</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@500&amp;family=Fira+Sans:wght@300&amp;display=swap" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+    <link href="https://fonts.googleapis.com/css2?family=Lato&amp;display=swap" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&amp;display=swap" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.6/gsap.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" />
+    <link rel="stylesheet" href="./src/css_/index.css" />
+    <link rel="stylesheet" href="./src/css_/team.css" />
+</head>
+
+<body>
+    <!--loader-->
+    <div id="loader"><span class="color"><img src="./src/images_2024-2025/logo.webp" alt=""></span>IIT KHARAGPUR</div>
+    <!--loader-end-->
+    <!--contains all the div-->
+    <video autoplay muted loop id="bgvideo"><source src="https://cdn.pixabay.com/video/2024/02/09/199876-911694738_large.mp4" type="video/mp4" /></video>
+    <div id="all-but-footer">
+        <!--Main-Section-->
+        <!--Navigator-fullscreen-->
+        <div id="navigation-content" class="display-hidden-on-laptop">
+            <div class="logo">
+                <a href="index.html"><img src="./src/images_2024-2025/logo.webp" alt="logo" /></a>
+            </div>
+            <div class="navigation-close">
+                <span class="close-first"></span>
+                <span class="close-second"></span>
+            </div>
+            <div class="navigation-links">
+                <a href="index.html" data-text="HOME" id="home-link">HOME</a>
+                <a href="events.html" data-text="EVENTS" id="blog-link">INITIATIVES</a>
+                <a href="team.html" data-text="EVENTS" id="blog-link">TEAM</a>
+                <a href="gallery.html" data-text="GALLERY" id="portfolio-link">GALLERY</a>
+                <a href="blog.html" data-text="BLOGS" id="blogs-menu">BLOGS</a>
+                <a href="contact.html" data-text="CONTACT" id="contact-link">CONTACT</a>
+            </div>
+        </div>
+        <!--Navigator-Fullscreen END-->
+
+        <!--Nav bar start-->
+        <div class="navbarx-container">
+            <nav class="navbarx display-hidden-on-mobile">
+                <div class="logox display-hidden-on-mobile">
+                    <a href="index.html"><img src="./src/images_2024-2025/logo.webp" alt="Logo" /></a>
+                </div>
+                <div class="nav-listx display-hidden-on-mobile">
+                    <div class="nav-itemx display-hidden-on-mobile"><a href="index.html">Home</a></div>
+                    <div class="nav-itemx display-hidden-on-mobile"><a href="events.html">Initiatives</a></div>
+                    <div class="nav-itemx display-hidden-on-mobile active"><a href="team.html">Team</a></div>
+                    <div class="nav-itemx display-hidden-on-mobile"><a href="gallery.html">Gallery</a></div>
+                    <div class="nav-itemx display-hidden-on-mobile"><a href="blog.html">Blogs</a></div>
+                    <div class="nav-itemx display-hidden-on-mobile"><a href="contact.html">Contact</a></div>
+                </div>
+            </nav>
+        </div>
+        <!--nav bar end-->
+        <!--Home Page-->
+        <!--Menubar-->
+        <div id="navigation-bar" class="display-hidden-on-laptop">
+            <img src="images_2022-2023/logo.webp" alt="logo" />
+            <div class="menubar">
+                <span class="first-span"></span>
+                <span class="second-span"></span>
+                <span class="third-span"></span>
+            </div>
+        </div>
+        <!--Menubar End-->
+        <!--Social Media Fixy Start-->
+        <div class="social-fixy">
+            <a href="https://www.instagram.com/edc_iitd/?hl=en"><img src="images_2022-2023/instagram logo.png" class="social-media" alt="instagram-logo"
+				/></a>
+            <a href="https://www.facebook.com/edciitdelhi/posts"><img src="images_2022-2023/facebook logo.png" class="social-media" alt="facebook-logo"
+				/></a>
+            <a href="https://in.linkedin.com/company/edc-iit-delhi"><img src="images_2022-2023/linkedin logo.png" class="social-media" alt="linkedin-logo"
+				/></a>
+            <a href="https://twitter.com/edciitdelhi"><img src="images_2022-2023/twitter logo.png" class="social-media" alt="twitter-logo"
+				/></a>
+        </div>
+        <!--Social Media Fixy End-->
+        <!--Team Header Begin-->
+        <div class="team-header">
+            <span class="color">OUR TEAM</span>
+            <p>The ones who make it all possible</p>
+        </div>
+        <!--Team Header End-->
+        <!--Main Start-->
+        <main>
+            <div id="team-page" class="container"></div>
+            <div class="row justify-content-around" id="prof"></div>
+            <div class="row justify-content-around" id="leads"></div>
+            <div class="row justify-content-around" id="ctm"></div>
+            <div class="row justify-content-around" id="coordis"></div>
+        </main>
+        <!--Main End-->
+    </div>
+    <!--Footer Start-->
+    <div class="footer">
+        <div class="footer-text">
+            <!-- <img src="images_2022-2023/copyright.png" alt="copyright-img" class="images" height="14px"> eDC-IITD -->
+            © Copyright ppgs IIT Kgp. All Rights Reserved
+            <br /> Designed by ppgs Tech Team
+        </div>
+    </div>
+    <!--Footer Ends-->
+    <script src="./src/js_/jquery.min.js"></script>
+    <script src="./src/js_/index.js"></script>
+    <script src="./src/js_/team.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+
+</html>
