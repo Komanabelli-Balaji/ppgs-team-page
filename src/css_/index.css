@@ -3173,6 +3173,7 @@ for tabs and large phones
     z-index: 999;
     width: 100%;
     transition: all 0.4s ease-in;
+    padding: 0px 20px;
     top: 0;
 }
 
@@ -3182,12 +3183,12 @@ for tabs and large phones
 }
 
 .navbarx-container .nav-listx .nav-itemx:hover {
-    border-bottom: 3px solid rgba(255, 113, 113, 1);
+    border-bottom: 3px solid rgb(254, 254, 254);
     transition: 0.2s ease-in;
 }
 
 .navScroll {
-    background-color: rgba(220, 70, 6, 0.8);
+    background-color: rgba(248, 83, 13, 0.8);
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
