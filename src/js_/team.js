@@ -73,6 +73,16 @@ const ems = [
         "profile_pic": "./src/images_2024-2025/team/Anu_Kashyap.jpg"
     },
     {
+        "em_name": "Ashutosh Singh",
+        "team": "Sponsorship Team ",
+        "": "",
+        "email_ID ": "ashking1308@gmail.com",
+        "ldin _ID ": "linkedIn",
+        "fb_ID": "Facebook",
+        "Insta_ID": "Instagram",
+        "profile_pic": "./src/images_2024-2025/team/Ashutosh_Singh.jpg"
+    },
+    {
         "em_name": "Anupam Kumar Ravi",
         "team": "Sponsorship team ",
         "": "",
@@ -92,16 +102,7 @@ const ems = [
         "Insta_ID": "Instagram ID",
         "profile_pic": "./src/images_2024-2025/team/Aryan_Rathaur.png"
     },
-    {
-        "em_name": "Ashutosh Singh",
-        "team": "Sponsorship Team ",
-        "": "",
-        "email_ID ": "ashking1308@gmail.com",
-        "ldin _ID ": "linkedIn",
-        "fb_ID": "Facebook",
-        "Insta_ID": "Instagram",
-        "profile_pic": "./src/images_2024-2025/team/Ashutosh_Singh.jpg"
-    },
+    
     {
         "em_name": "AYUSH KUMAR",
         "team": "Sponsorship Team",
