@@ -359,7 +359,7 @@ const dt = [
         "ldin _ID ": "",
         "fb_ID": "",
         "Insta_ID": "",
-        "profile_pic": "./src/images_2024-2025/team/"
+        "profile_pic": "./src/images_2024-2025/team/Kajal_Kumari.jpg"
     },
     {
         "em_name": "Karri Manasa",
@@ -410,17 +410,7 @@ const dt = [
         "fb_ID": "https://www.facebook.com/share/6riWSDNA78P56WMn/",
         "Insta_ID": "https://www.instagram.com/sai__kiran_06/profilecard/?igsh=NnpodmoyZHJjMHIx",
         "profile_pic": "./src/images_2024-2025/team/Saikiran_pachigolla.jpg"
-    },
-    {
-        "em_name": "Mourya Gandhi",
-        "team": "",
-        "": "",
-        "email_ID ": "",
-        "ldin _ID ": "",
-        "fb_ID": "",
-        "Insta_ID": "",
-        "profile_pic": "./src/images_2024-2025/team/"
-    },
+    }
 ];
 
 const tech = [
