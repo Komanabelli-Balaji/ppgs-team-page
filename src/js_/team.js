@@ -27,7 +27,7 @@ const coordies = [
         "ldin _ID ": "https://www.linkedin.com/in/sumanta-sarathi-roy-4749452a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "fb_ID": "",
         "Insta_ID": "https://www.instagram.com/sumantasarathiroy/",
-        "profile_pic": "./src/images_2024-2025/team/"
+        "profile_pic": "./src/images_2024-2025/team/Sumanta_Sarathi_Roy.jpg"
     }
 ];
 
@@ -136,6 +136,16 @@ const events = [
 
 const pr = [
     {
+        "em_name": "Siddharth Sudarshan Pandey",
+        "team": "",
+        "": "",
+        "email_ID ": "ssudarshanpandey@gmail.com",
+        "ldin _ID ": "https://in.linkedin.com/in/siddharth-sudarshan-pandey-3b2381323",
+        "fb_ID": "https://www.facebook.com/profile.php?id=61564204535571",
+        "Insta_ID": "",
+        "profile_pic": "./src/images_2024-2025/team/Siddharth_Sudarshan_Pandey.jpg"
+    },
+    {
         "em_name": "Akshat Srivastav",
         "team": "",
         "": "",
@@ -213,7 +223,7 @@ const pr = [
         "ldin _ID ": "https://www.linkedin.com/in/sumanta-sarathi-roy-4749452a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "fb_ID": "",
         "Insta_ID": "https://www.instagram.com/sumantasarathiroy/",
-        "profile_pic": "./src/images_2024-2025/team/"
+        "profile_pic": "./src/images_2024-2025/team/Sumanta_Sarathi_Roy.jpg"
     }
 ];
 
@@ -249,26 +259,6 @@ const spons = [
         "profile_pic": "./src/images_2024-2025/team/Anupam_Kumar_Ravi.jpg"
     },
     {
-        "em_name": "Aryan Rathaur",
-        "team": "",
-        "": "",
-        "email_ID ": "aryankumarrathaur1105@gmail.com",
-        "ldin _ID ": "LinkedIn Id",
-        "fb_ID": "Facebook ID",
-        "Insta_ID": "Instagram ID",
-        "profile_pic": "./src/images_2024-2025/team/Aryan_Rathaur.png"
-    },
-    {
-        "em_name": "Ashutosh Singh",
-        "team": "",
-        "": "",
-        "email_ID ": "ashking1308@gmail.com",
-        "ldin _ID ": "linkedIn",
-        "fb_ID": "Facebook",
-        "Insta_ID": "Instagram",
-        "profile_pic": "./src/images_2024-2025/team/Ashutosh_Singh.jpg"
-    },
-    {
         "em_name": "AYUSH KUMAR",
         "team": "",
         "": "",
@@ -283,9 +273,9 @@ const spons = [
         "team": "",
         "": "",
         "email_ID ": "mansigujrati92@gmail.com",
-        "ldin _ID ": "",
+        "ldin _ID ": "https://www.linkedin.com/in/mansi-gujrati-5b9b47307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "fb_ID": "",
-        "Insta_ID": "",
+        "Insta_ID": "https://www.instagram.com/mansi__gujrati/profilecard/?igsh=MXQ4YTd0dndtOGp1cg==",
         "profile_pic": "./src/images_2024-2025/team/Mansi_Gujrati.jpg"
     },
     {
@@ -307,6 +297,26 @@ const spons = [
         "fb_ID": "https://www.facebook.com/profile.php?id=100094736282370",
         "Insta_ID": "https://www.instagram.com/_utkarshanand.iitkgp/",
         "profile_pic": "./src/images_2024-2025/team/Utkarsh_Anand.jpg"
+    },
+    {
+        "em_name": "Aryan Rathaur",
+        "team": "",
+        "": "",
+        "email_ID ": "aryankumarrathaur1105@gmail.com",
+        "ldin _ID ": "LinkedIn Id",
+        "fb_ID": "Facebook ID",
+        "Insta_ID": "Instagram ID",
+        "profile_pic": "./src/images_2024-2025/team/Aryan_Rathaur.png"
+    },
+    {
+        "em_name": "Ashutosh Singh",
+        "team": "",
+        "": "",
+        "email_ID ": "ashking1308@gmail.com",
+        "ldin _ID ": "linkedIn",
+        "fb_ID": "Facebook",
+        "Insta_ID": "Instagram",
+        "profile_pic": "./src/images_2024-2025/team/Ashutosh_Singh.jpg"
     }
 ];
 
@@ -448,16 +458,6 @@ const tech = [
 
 const swaa = [
     {
-        "em_name": "M Amritavarshini",
-        "team": "Student Welfare and Alumni Affairs",
-        "": "",
-        "email_ID ": "mamritavarshini2004@gmail.com",
-        "ldin _ID ": "https://www.linkedin.com/in/amritavarshini-m-3ba197294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "fb_ID": "https://www.facebook.com/share/JcbfyJZMnR6r34Gh/",
-        "Insta_ID": "https://www.instagram.com/amrita._varshini/profilecard/?igsh=bnM1anllYzdxdjlm",
-        "profile_pic": "./src/images_2024-2025/team/M_Amritavarshini.jpg"
-    },
-    {
         "em_name": "Anu Kashyap",
         "team": "",
         "": "",
@@ -468,12 +468,22 @@ const swaa = [
         "profile_pic": "./src/images_2024-2025/team/Anu_Kashyap.jpg"
     },
     {
+        "em_name": "M Amritavarshini",
+        "team": "Student Welfare and Alumni Affairs",
+        "": "",
+        "email_ID ": "mamritavarshini2004@gmail.com",
+        "ldin _ID ": "https://www.linkedin.com/in/amritavarshini-m-3ba197294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "fb_ID": "https://www.facebook.com/share/JcbfyJZMnR6r34Gh/",
+        "Insta_ID": "https://www.instagram.com/amrita._varshini/profilecard/?igsh=bnM1anllYzdxdjlm",
+        "profile_pic": "./src/images_2024-2025/team/M_Amritavarshini.jpg"
+    },
+    {
         "em_name": "Krish Varshney",
         "team": "Students' Welfare and Alumni Affairs Team",
         "": "",
         "email_ID ": "krishvarshney005@gmail.com",
-        "ldin _ID ": "",
-        "fb_ID": "",
+        "ldin _ID ": "https://www.linkedin.com/in/krish-varshney-05151a303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "fb_ID": "https://www.facebook.com/share/M4sF58TzNEcudMG9/",
         "Insta_ID": "",
         "profile_pic": "./src/images_2024-2025/team/Krish_Varshney.png"
     },
@@ -497,16 +507,7 @@ const ems = [
     
     
     
-    {
-        "em_name": "Siddharth Sudarshan Pandey",
-        "team": "",
-        "": "",
-        "email_ID ": "ssudarshanpandey@gmail.com",
-        "ldin _ID ": "https://in.linkedin.com/in/siddharth-sudarshan-pandey-3b2381323",
-        "fb_ID": "https://www.facebook.com/profile.php?id=61564204535571",
-        "Insta_ID": "",
-        "profile_pic": "./src/images_2024-2025/team/"
-    },
+    
     
     
     
