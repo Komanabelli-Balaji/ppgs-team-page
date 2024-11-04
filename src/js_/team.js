@@ -23,10 +23,10 @@ const coordies = [
         "em_name": "Sumanta Sarathi Roy",
         "team": "",
         "": "",
-        "email_ID ": "",
-        "ldin _ID ": "",
+        "email_ID ": "sumantasarathiroy2005@gmail",
+        "ldin _ID ": "https://www.linkedin.com/in/sumanta-sarathi-roy-4749452a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "fb_ID": "",
-        "Insta_ID": "",
+        "Insta_ID": "https://www.instagram.com/sumantasarathiroy/",
         "profile_pic": "./src/images_2024-2025/team/"
     }
 ];
@@ -80,7 +80,7 @@ const events = [
         "ldin _ID ": "https://www.linkedin.com/in/md-musharraf-60236b288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "fb_ID": "https://m.facebook.com/profile.php?id=100093676656097",
         "Insta_ID": "https://www.instagram.com/shaikhmusharraf64/",
-        "profile_pic": "./src/images_2024-2025/team/"
+        "profile_pic": "./src/images_2024-2025/team/Md_Musharraf.jpg"
     },
     {
         "em_name": "Sameera Jenna",
@@ -100,7 +100,7 @@ const events = [
         "ldin _ID ": "https://www.linkedin.com/in/thilok-t-254369289",
         "fb_ID": "",
         "Insta_ID": "https://www.instagram.com/thilok218/profilecard/?igsh=OTVib2g1c3F0b2Nl",
-        "profile_pic": "./src/images_2024-2025/team/"
+        "profile_pic": "./src/images_2024-2025/team/Thummala_Thilok.jpg"
     },
     {
         "em_name": "Koena Biswal",
@@ -121,6 +121,16 @@ const events = [
         "fb_ID": "",
         "Insta_ID": "",
         "profile_pic": "./src/images_2024-2025/team/"
+    },
+    {
+        "em_name": "Rakshita",
+        "team": "",
+        "": "",
+        "email_ID ": "riya.rr2004@gmail.com",
+        "ldin _ID ": "https://www.linkedin.com/in/rakshita-panwar-274587294/?originalSubdomain=in",
+        "fb_ID": "",
+        "Insta_ID": "https://www.instagram.com/rakshita.93/profilecard/?igsh=MTNyMjZxMGx5YXRsMg==",
+        "profile_pic": "./src/images_2024-2025/team/Rakshita.jpg"
     }
 ];
 
@@ -153,7 +163,7 @@ const pr = [
         "ldin _ID ": "https://www.linkedin.com/in/natasa-pradhan-50b124291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "fb_ID": "",
         "Insta_ID": "https://www.instagram.com/natasa__149?igsh=M3BzY3VmN2plNWo3",
-        "profile_pic": "./src/images_2024-2025/team/"
+        "profile_pic": "./src/images_2024-2025/team/Natasa_Pradhan.jpg"
     },
     {
         "em_name": "Mozeel Vanwani",
@@ -176,16 +186,6 @@ const pr = [
         "profile_pic": "./src/images_2024-2025/team/Satyam_Subham_Sahoo.jpg"
     }, 
     {
-        "em_name": "Siddharth Sudarshan Pandey",
-        "team": "",
-        "": "",
-        "email_ID ": "ssudarshanpandey@gmail.com",
-        "ldin _ID ": "https://in.linkedin.com/in/siddharth-sudarshan-pandey-3b2381323",
-        "fb_ID": "https://www.facebook.com/profile.php?id=61564204535571",
-        "Insta_ID": "",
-        "profile_pic": "./src/images_2024-2025/team/"
-    },
-    {
         "em_name": "Priyanshu Bhooshan",
         "team": "",
         "": "",
@@ -204,6 +204,16 @@ const pr = [
         "fb_ID": "",
         "Insta_ID": "https://www.instagram.com/rkumar_0108?igsh=dGRsdWgyd3didzdn",
         "profile_pic": "./src/images_2024-2025/team/Rahul_Kumar.jpg"
+    },
+    {
+        "em_name": "Sumanta Sarathi Roy",
+        "team": "",
+        "": "",
+        "email_ID ": "sumantasarathiroy2005@gmail",
+        "ldin _ID ": "https://www.linkedin.com/in/sumanta-sarathi-roy-4749452a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "fb_ID": "",
+        "Insta_ID": "https://www.instagram.com/sumantasarathiroy/",
+        "profile_pic": "./src/images_2024-2025/team/"
     }
 ];
 
@@ -217,16 +227,6 @@ const spons = [
         "fb_ID": "https://www.facebook.com/sarthak.patel.7965692?mibextid=kFxxJD",
         "Insta_ID": "https://www.instagram.com/srp15.10/profilecard/?igsh=MXdna3IybnZ2eDd2",
         "profile_pic": "./src/images_2024-2025/team/Sarthak_R_Patel.jpg"
-    },
-    {
-        "em_name": "Aditya Patil",
-        "team": "",
-        "": "",
-        "email_ID ": "adityagpatil7@gmail.com",
-        "ldin _ID ": "linkedin.com/in/aditya-patil-b9747428b",
-        "fb_ID": "",
-        "Insta_ID": "https://www.instagram.com/aditya_patil.007/",
-        "profile_pic": "./src/images_2024-2025/team/Aditya_Patil.jpg"
     },
     {
         "em_name": "Akshara Jain",
@@ -286,7 +286,7 @@ const spons = [
         "ldin _ID ": "",
         "fb_ID": "",
         "Insta_ID": "",
-        "profile_pic": "./src/images_2024-2025/team/"
+        "profile_pic": "./src/images_2024-2025/team/Mansi_Gujrati.jpg"
     },
     {
         "em_name": "Dipendu Das",
@@ -410,17 +410,7 @@ const dt = [
         "fb_ID": "https://www.facebook.com/share/6riWSDNA78P56WMn/",
         "Insta_ID": "https://www.instagram.com/sai__kiran_06/profilecard/?igsh=NnpodmoyZHJjMHIx",
         "profile_pic": "./src/images_2024-2025/team/Saikiran_pachigolla.jpg"
-    },
-    {
-        "em_name": "Mourya Gandhi",
-        "team": "",
-        "": "",
-        "email_ID ": "grandhimourya2@gmail.com",
-        "ldin _ID ": "https://www.linkedin.com/in/satya-sai-grandhi-b32ab62a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "fb_ID": "",
-        "Insta_ID": "https://www.instagram.com/mourya_grandhi/profilecard/?igsh=MTh0cnN5OHgyN251YQ==",
-        "profile_pic": "./src/images_2024-2025/team/Mourya_Gandhi.jpg"
-    },
+    }
 ];
 
 const tech = [
@@ -485,7 +475,7 @@ const swaa = [
         "ldin _ID ": "",
         "fb_ID": "",
         "Insta_ID": "",
-        "profile_pic": "./src/images_2024-2025/team/"
+        "profile_pic": "./src/images_2024-2025/team/Krish_Varshney.png"
     },
     {
         "em_name": "Shibu Sharan Dwivedi",
@@ -507,7 +497,16 @@ const ems = [
     
     
     
-    
+    {
+        "em_name": "Siddharth Sudarshan Pandey",
+        "team": "",
+        "": "",
+        "email_ID ": "ssudarshanpandey@gmail.com",
+        "ldin _ID ": "https://in.linkedin.com/in/siddharth-sudarshan-pandey-3b2381323",
+        "fb_ID": "https://www.facebook.com/profile.php?id=61564204535571",
+        "Insta_ID": "",
+        "profile_pic": "./src/images_2024-2025/team/"
+    },
     
     
     
@@ -534,16 +533,7 @@ const ems = [
     
     
     
-    {
-        "em_name": "Rakshita",
-        "team": "",
-        "": "",
-        "email_ID ": "",
-        "ldin _ID ": "",
-        "fb_ID": "",
-        "Insta_ID": "",
-        "profile_pic": "./src/images_2024-2025/team/"
-    },
+    
     
     
     
