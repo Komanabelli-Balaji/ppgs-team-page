@@ -119,8 +119,8 @@ const events = [
         "email_ID ": "salonipawarslp@gmail.com",
         "ldin _ID ": "https://www.linkedin.com/in/saloni-pawar-bb96512b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "fb_ID": "",
-        "Insta_ID": "",
-        "profile_pic": "./src/images_2024-2025/team/"
+        "Insta_ID": "https://www.instagram.com/onein_universe/",
+        "profile_pic": "./src/images_2024-2025/team/Saloni_Pawar.jpg"
     },
     {
         "em_name": "Rakshita",
@@ -420,7 +420,17 @@ const dt = [
         "fb_ID": "https://www.facebook.com/share/6riWSDNA78P56WMn/",
         "Insta_ID": "https://www.instagram.com/sai__kiran_06/profilecard/?igsh=NnpodmoyZHJjMHIx",
         "profile_pic": "./src/images_2024-2025/team/Saikiran_pachigolla.jpg"
-    }
+    },
+    {
+        "em_name": "Ketan Patre",
+        "team": "",
+        "": "",
+        "email_ID ": "ketanpatre212@gmail.com",
+        "ldin _ID ": "",
+        "fb_ID": "",
+        "Insta_ID": "https://www.instagram.com/_ketan____05?igsh=MTI1b3p6NXd5dHhzNQ==",
+        "profile_pic": "./src/images_2024-2025/team/Ketan_Patre.jpeg"
+    },
 ];
 
 const tech = [
@@ -498,51 +508,6 @@ const swaa = [
         "profile_pic": "./src/images_2024-2025/team/Shibu_Sharan_Dwivedi.jpg"
     }
 ];
-
-const ems = [ 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    {
-        "em_name": "Ketan Patre",
-        "team": "",
-        "": "",
-        "email_ID ": "",
-        "ldin _ID ": "",
-        "fb_ID": "",
-        "Insta_ID": "",
-        "profile_pic": "./src/images_2024-2025/team/"
-    },
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-]
 
 // document.querySelector("#ctm").innerHTML = heads
 //     .map(
